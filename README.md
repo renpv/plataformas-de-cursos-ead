@@ -13,3 +13,4 @@
 - [Cursos Grátis On-line](https://www.cursosgratisonline.com.br/)
 - [Senai](https://eadsenaies.com.br/)
 - [Learn Café](https://www.learncafe.com/cursos-gratis)
+- [DIO](https://www.dio.me/)
